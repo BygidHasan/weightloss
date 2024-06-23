@@ -4,7 +4,7 @@ $title = "Home";
 <?php include 'includes/header.php'; ?>
 
 <section class="home-banner">
-   <div class="container-fluid px-5">
+   <div class="container-fluid px-5 ">
       <div class="row">
          <div class="banner-captions">
             <h1 class="banner-heading">Turning SIMPLE<br /><span>RECIPES into RESULTS</span></h1>
@@ -61,11 +61,6 @@ $title = "Home";
                   </div>
             </div>
          </div>
-         <div class="col-lg-8">
-            <div class="intro-img">
-            <img src="assets/images/int-img.png" class="img-fluid bookintro" alt="Book Intro" />
-            </div>
-         </div>
          </div>
 
       </div>
@@ -113,9 +108,8 @@ $title = "Home";
 <section class="our-clients">
    <div class="container-fluid px-5">
       <div class="row">
-         <div class="clinets-center">
-            <h2 class="get-clients">our clients get results</h2>
-         </div>
+         <div class="clinets-center"></div>
+            <h2 class="get-clients">our<br/>clients<br/>get<br/>results</h2>
       </div>
    </div>
 </section>
