@@ -4,7 +4,7 @@
 
       <div class="col-lg-6">
         <div class="footer-column fstclumn">
-        <img src="assets/images/logo-footer.png" class="img-fluid" alt="Footer Logo" />
+        <img src="assets/images/logo-footer.png" class="img-fluid footerLogo" alt="Footer Logo" />
         <p>Turning Simple Recipes Into Results…Crafted to perfection, making weight loss easy for you.</p>
         </div>
       </div>
@@ -41,7 +41,7 @@
 
 <div class="bottom_footer">
 <div class="container-fluid px-5">
-    <div class="row">
+    <div class="row footerSocial">
         <div class="col-lg-6"><p class="dev-text">© totalweightloss 2024. all rights reserved</p></div>
         <div class="col-lg-6">        
         <ul class="social_media">
